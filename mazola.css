@@ -1,0 +1,172 @@
+.header{
+    background-image: url(Group.jpg);
+    background-size: cover;
+    height: 800px;
+    background-repeat: no-repeat !important;
+    
+}
+.En{
+    margin-left: 70px;
+}
+.navheader{
+    margin-top: 20px;
+  }
+.navbar-brand{
+    margin-top: 20px ;
+   
+}
+.nav-item{
+    padding: 0px 10px;
+}
+.active{
+    border-bottom-color: #A52A26;
+            border-bottom-style: solid;
+            border-width: 3px;
+   
+}
+.QimColor{
+    color: #A52A26;
+}
+ #we{
+    color: white;
+
+}
+.btn{
+    background-color: #A52A26 !important;
+}
+.titleQim{
+    margin-top: 13%;
+}
+.titleQim h1{
+    color: white;
+
+}
+.title{
+    margin-top: 7%;
+}
+
+.whatwedo h2{
+    margin-top: 5px;
+    line-height: 2.7rem;
+    color: black;
+}
+.whatwedo p{
+    margin-top: 5px;
+    font-size: 13px;
+    color: darkgrey;
+}
+.whatwedo span{
+    margin-top: 5px;
+
+    color: #A52A26;
+}
+.title p{
+    color: darkgrey;
+}
+.iii
+{
+    
+    text-align: center;
+    display: inline-block;
+}
+.iiii
+{
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+}
+        
+
+.who span{
+    margin-top: 5%;
+    color: #A52A26;
+    justify-content: center;
+    display: flex;
+}
+.who h3{ 
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+.who p{ 
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    color: darkgrey;
+}
+.centerbtn{
+    justify-content: center;
+    display: flex;
+}
+
+.pad{
+    margin-top:7% !important;
+}
+
+.tiredsection{
+    background-image: url(Group.jpg);
+    background-size: cover;
+    height: 300px;
+    background-repeat: no-repeat !important; 
+    text-align: center;
+    margin-top: 4%;
+    padding-top: 7%;
+    position: relative;
+}
+.bac{
+    background-color: #F8F8F8;
+    height: 800px;
+    width: 100%;
+    transform: skewy( -8deg );
+    transform-origin: bottom left;
+    z-index:-1;
+    position:absolute;
+}
+#dvsd{
+  
+    color: black;
+    position: relative;
+    padding-right: 20px;
+}
+.ceni p{
+    color: darkgrey;
+
+}
+.ceni{
+    padding-left: 20px;
+    background-color: white;
+    width: 90% !important;
+    padding: 15px;
+    margin: auto;
+   min-height:350px;
+   max-width: 400px;
+
+}
+
+.ceni h5{
+    color: #A52A26 i !important;
+}
+.cenm{
+    background-color: #A52A26;
+    color: white;
+}
+.ceni h4,.ceni p{
+padding-top: 20px;
+}
+.cenii:hover p ,.cenii:hover h4{
+    color: white;
+
+}
+.cenii:hover {
+    background-color: #A52A26;
+    color: white;
+}
+.border{
+    border:1px solid black;
+    margin:auto 20px;
+
+}
+.mgtop{
+margin-top: -7%;
+
+}

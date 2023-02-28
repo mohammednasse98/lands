@@ -1,0 +1,122 @@
+header{
+    background-color: white;
+}
+.nav-item{
+ padding-left: 50px;   
+ padding-right: 50px;
+}
+.nav-item a{
+    font-weight: 700;
+}
+.textprand{
+ margin-left: 15px; 
+ font-family: 'Poppins', sans-serif; 
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+ 
+
+}
+
+.img-head{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border: 4px solid black;
+    border-radius: 100%;
+    margin-top: 65px;
+}
+p{
+    text-align: center;
+    font-size: 17px; 
+    line-height: 1rem;
+    margin-top: 15px !important; 
+}
+form{
+    text-align: center;
+    font-size: 17px; 
+    line-height: 1rem;
+    margin-top: 3% !important;
+}
+.colorleft{
+    background-color:#353C8F;
+    height: 800px;
+    width: 100%;
+    position: relative;
+}
+.one{
+    position: absolute;
+    border:4px  solid #2EBDEE;
+    height: 75px;
+    width: 75px;
+    background-color: #2EBDEE;
+    border-top-left-radius:25px;
+    border-bottom-right-radius: 45px;
+    top: 30%;
+    right: 3%;
+}
+.tow{
+    position: absolute;
+    border:4px  solid #5E58A1;
+    height: 75px;
+    width: 75px;
+    background-color: #5E58A1 ;
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius: 50px;
+    top: 40%;
+    right: 3%;
+}
+.threeimg{
+    position: absolute;
+    border:4px  solid #DD2D2B;
+    background-color: #DD2D2B;   
+    border-top-left-radius:100px;
+    border-top-right-radius: 100px; 
+   
+    top: 27%;
+    right: 17%;
+}
+.four{
+    position: absolute;
+    border:4px  solid #F5B2B6;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: #F5B2B6 ;
+   
+    top: 39%;
+    right: 60%;
+}
+.five{
+    position: absolute;
+    border:4px  solid #353C8F;
+    height: 50px;
+    width: 50px;
+    background-color: #353C8F ;
+   
+    top: 46%;
+    right: 60%;
+}
+.six{
+    position: absolute;
+    border:4px  solid #2EBDEE;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: #2EBDEE;
+    top: 20%;
+left: -17%;
+}
+.saven{
+    position: absolute;
+    border:4px  solid white;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    top: 20%;
+    left: -35%;
+}
+.col-form-label{
+    margin-left: 10px !important;
+}
